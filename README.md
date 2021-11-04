@@ -32,7 +32,7 @@
   (Basic Mini Robotic Car and Programming, Basic App Programming for Bluetooth Motion Control) </li><br>
  <li><b>19.03.14 ~ 19.06.30: 원어민 튜터링</b><br></li><br>
  <li><b>19.06.27 ~ 19.07.12: 글로벌 빌리지(집중 외국어 회화)</b><br></li><br>
- <li><b>20.10.21: 단국대 소·중 데이터 분석 AI 경진대회 우수상</b></li><br>
+ <li><b>20.10.21: 소·중 데이터 분석 AI 경진대회 우수상</b></li><br>
  <li><b>21.06.21 ~ 21.07.16: 현장실습(L&S153)</b><br>
   (어플 기획: 어플 요구사항 작성, 시나리오 작성, 와이어프레임 제작) </li><br>
  <li><b>21.06.28 ~ 21.08.27: 미국 UCI GREAT 프로그램</b><br>
