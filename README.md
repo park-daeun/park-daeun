@@ -23,7 +23,7 @@
  
  <br><br>
  
- 📚 <b>Experience</b> 📚
+<!--  📚 <b>Experience</b> 📚
  ------  
  
  <br>  
@@ -52,7 +52,7 @@
  <br><br>
  
 </div>
-
+ -->
 
 
 
